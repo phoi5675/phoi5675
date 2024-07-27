@@ -5,10 +5,10 @@ phoi5675
 ## Github status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phoi5675&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats-phoi5675s-projects.vercel.app/api?username=phoi5675&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoi5675&theme=dark&size_weight=0.8&count_weight=0.2&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-phoi5675s-projects.vercel.app/api/top-langs/?username=phoi5675&theme=dark&size_weight=0.8&count_weight=0.2&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Interests
